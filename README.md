@@ -1,7 +1,7 @@
 This repository contains all the projects related to Machine Learning, Neural Networks and Visualization dashborads of Tableau
 
 
-# Project1: Geely-Auto-Regression
+# [Project1: Geely-Auto-Regression](https://github.com/Shreyas-05/Geely-Auto-Regression)
 Automobile Case Study using Linear Regression in Python
 
 ### Problem Statement
