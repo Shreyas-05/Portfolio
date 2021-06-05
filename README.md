@@ -22,6 +22,3 @@ Performing PCA to reduce components and applying different classification techni
 * Train a ***Random Forest, Logistic Regression and XGBOOST*** models, tune model hyperparameters, etc. (handle class imbalance using appropriate techniques).
 * Evaluate the models using appropriate evaluation metrics. Note that is is more important to identify churners than the non-churners accurately - choose an appropriate evaluation metric which reflects this business goal.
 * Finally, choose a model based on some evaluation metric.
-
-## Model Perfomance - Metric: Accuracy
-![](https://github.com/Shreyas-05/Customer-Churn/blob/main/images/download.png)
