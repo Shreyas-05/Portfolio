@@ -7,13 +7,9 @@ Automobile Case Study using Linear Regression in Python
 ### Problem Statement
 > A Chinese automobile company Geely Auto aspires to enter the US market by setting up their manufacturing unit there and producing cars locally to give competition to their US and European counterparts.
 
-### Business Understanding
-> Geely Auto have contracted an automobile consulting company to understand the factors on which the pricing of cars depends. Specifically, they want to understand the factors affecting the pricing of cars in the American market, since those may be very different from the Chinese market. The company wants to know:
-1. Which variables are significant in predicting the price of a car?
-2. How well those variables describe the price of a car?
-3. Based on various market surveys, the consulting firm has gathered a large dataset of different types of cars across the American market?
+# [Project 2: Loan Case Study - EDA](https://github.com/Shreyas-05/EDA)
 
-Evaluation Metric used here is R-Squared
+* In this case study, apart from applying the techniques of EDA, we will have a basic understanding of risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
 
-`from sklearn.metrics import r2_score`<br>
-`r2_score(y_test, y_pred)`
+<img src = "https://github.com/Shreyas-05/EDA/blob/main/images/Loan_image.png" width="450" height="250">
+
