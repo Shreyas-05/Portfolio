@@ -22,3 +22,8 @@ Performing PCA to reduce components and applying different classification techni
 * Train a ***Random Forest, Logistic Regression and XGBOOST*** models, tune model hyperparameters, etc. (handle class imbalance using appropriate techniques).
 * Evaluate the models using appropriate evaluation metrics. Note that is is more important to identify churners than the non-churners accurately - choose an appropriate evaluation metric which reflects this business goal.
 * Finally, choose a model based on some evaluation metric.
+
+**If the jupyter notebook is not rendering, please use [nbviewer](https://nbviewer.jupyter.org/) and paste the jupyter notebook link**
+
+
+### Click here for my [Tableau Public Profile](https://public.tableau.com/profile/shreyas.s)
